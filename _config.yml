@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Shuai Zhang"
-  avatar           : "/images/icon.jpg"
+  avatar           : "/images/icon"
   bio              : "Quant by day, superhero by night"
   location         : "Ancaster, Ontario"
   email            :
