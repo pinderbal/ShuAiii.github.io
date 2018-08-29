@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Kevin's Quant Playground"
 title_separator          : "-"
 name                     : "Kevin Shuai Zhang"
-description              : "An amazing website."
+description              : "Blog about Quantitative Finance"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :"ShuAiii"
   gitlab           :
   google_plus      :
   keybase          :
@@ -269,3 +269,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
