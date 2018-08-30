@@ -4,6 +4,6 @@ permalink: /quant/
 title: "Quant"
 author_profile: true
 header:
-  image: "/images/xian.jpeg"
+  image: "/images/about.jpeg"
 ---
 Yes
