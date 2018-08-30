@@ -4,6 +4,6 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-  image: "/images/about.jpeg"
+  image: "/images/shanghai.jpeg"
 ---
 HELLO0
