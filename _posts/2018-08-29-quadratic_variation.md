@@ -5,5 +5,5 @@ tags: [stochastic processes, real analysis]
 ---
 yeppp
 ```r
-
+TeX("$\\alpha$")
 ```
